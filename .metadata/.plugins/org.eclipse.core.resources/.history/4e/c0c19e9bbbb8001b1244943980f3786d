@@ -1,0 +1,9 @@
+package in.ashokit;
+
+
+public class Bus {
+	public Bus() {
+		System.out.println("Bus Constructor");
+	}
+		}
+
